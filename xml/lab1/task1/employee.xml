@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<Employees>
+  <Employee>
+    <Name>Ahmed Orabi</Name>
+    <Phones>
+      <Phone Type="home">5758053</Phone>
+      <Phone Type="mobile">01245678801</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>Main St.</Street>
+        <BuildingNumber>12</BuildingNumber>
+        <Region>Louran</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+        <Street>2nd St.</Street>
+        <BuildingNumber>62</BuildingNumber>
+        <Region>janaklis</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>orabi@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <Name>tamer</Name>
+    <Phones>
+      <Phone Type="work">5321456</Phone>
+      <Phone Type="mobile">0120000000002</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>3nd St.</Street>
+        <BuildingNumber>33</BuildingNumber>
+        <Region>shatby</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>tamer@gmail.com</Email>
+  </Employee>
+</Employees>

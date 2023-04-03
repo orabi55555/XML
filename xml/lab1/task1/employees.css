@@ -1,0 +1,38 @@
+Employees {
+  background-color: lemonchiffon;
+}
+
+/* Apply styles to all Name elements */
+Name {
+  display: block;
+  font-weight: bold;
+}
+
+/* Apply styles to all Phone elements */
+Phone {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Apply styles to Phone elements with a Type of "mobile" */
+Phone[Type="mobile"] {
+  font-style: italic;
+}
+
+/* Apply styles to all Address elements */
+Address {
+  margin-bottom: 20px;
+}
+
+/* Apply styles to the Street and BuildingNumber elements inside an Address element */
+Address > Street,
+Address > BuildingNumber {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* Apply styles to the Email element */
+Email {
+  color: blue;
+  text-decoration: underline;
+}

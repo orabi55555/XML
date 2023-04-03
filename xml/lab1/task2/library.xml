@@ -1,0 +1,122 @@
+<library>
+    <location>1 Main St, Aleaxandria, Egypt</location>
+    <description>A public library with a wide range of books and resources.</description>
+    <librarian>Ahmed Orabi</librarian>
+    
+    <books>
+        <book title="Learn c-programming" isbn="???" author="????">
+        <preface>An introduction</preface>
+        <parts>
+            <part title="Part 1: what is c?">
+                <chapters>
+                <chapter title="Chapter 1">
+                    <summary>A brief overview of the events that take place in this chapter.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 2">
+                <summary>A brief overview of the events that take place in this chapter.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+            <part title="Part 2: editors:">
+                <chapters>
+                <chapter title="Chapter 3">
+                    <summary>A brief overview of the events that take place in this chapter.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 4">
+                    <summary>A brief overview of the events that take place in this chapter.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                        <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+        </parts>
+        </book>
+        <book title="how to code java " isbn="??" author="??">
+            <preface>An introduction</preface>
+            <parts>
+            <part title="Part 1: what is java??">
+                <chapters>
+                <chapter title="Chapter 1">
+                    <summary>A brief overview of the events that take place in this chapter.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 2">
+                <summary>A brief overview of the events that take place in this chapter.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+            <part title="Part 2: editors">
+                <chapters>
+                <chapter title="Chapter 3">
+                    <summary>A brief overview of the events that take place in this chapter.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 4">
+                    <summary>A brief overview of the events that take place in this chapter.</summary>
+                    <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                        <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+        </parts>
+    </book>
+    </books>
+</library>
