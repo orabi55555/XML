@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE employees SYSTEM 'employees.dtd'>
+
+<employees>
+  <employee >
+    <name>Ahmed Orabi</name>
+    <phones>
+      <phone type="home">01285678</phone>
+      <phone type="work">01234566</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>Main Street</street>
+        <building_number>1</building_number>
+        <region>shatby</region>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>elorabiahmed@gmail.com</email>
+  </employee>
+  <employee >
+    <name>Mohamed mahmoud</name>
+    <phones>
+      <phone type="mobile">012833344</phone>
+	<phone type="work">0123338383</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>zofkar</street>
+        <building_number>4</building_number>
+        <region>loran</region>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>Mohamed@example.com</email>
+  </employee>
+</employees>
