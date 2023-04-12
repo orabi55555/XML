@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="task2.xsl"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="task1.xsd">
+	<employee>
+		<name>Ahmed Elorabi</name>
+		<phones>
+			<phone type="home">012844555</phone>
+			<phone type="work">010626555</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>Main Street</street>
+				<building_number>1</building_number>
+				<region>loran</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>elorabi@gmail.com</email>
+	</employee>
+	<employee>
+		<name>Mohamed mahmoud</name>
+		<phones>
+			<phone type="mobile">011661555</phone>
+			<phone type="work">015469555</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>zofkar</street>
+				<building_number>4</building_number>
+				<region>loran</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>Mohamed@example.com</email>
+	</employee>
+</employees>
